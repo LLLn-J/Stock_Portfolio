@@ -37,10 +37,10 @@ java -jar Stock.jar
 
 ## 📚 Documentation
 
-- **[DESIGN-README]**  
+- **[DESIGN-README](https://github.com/LLLn-J/Stock_Portfolio/blob/main/DESIGN-README.txt)**  
   Detailed architectural and design decisions made during development.
 
-- **[SETUP-README]**  
+- **[SETUP-README](https://github.com/LLLn-J/Stock_Portfolio/blob/main/SETUP-README.txt)**  
   Instructions for environment setup and running the `.jar` file.
 
 ## 🔒 Academic Notice
